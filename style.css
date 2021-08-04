@@ -1,0 +1,109 @@
+.navbar{
+    width: 100%;
+    display: flex !important;
+    flex-wrap: wrap !important;
+}
+
+.d-inline-block {
+    margin-left: 35px;
+    width: 45px;
+    height: 28px;
+}
+
+.container-fluid {
+    display: inline-block;
+
+}
+
+.links {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 600px;
+    margin-left: 100px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.link {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #002f34;
+    width: 100%;
+}
+
+.card {
+    display: inline-block !important;
+    margin-left: 35px;
+    margin-bottom: 25PX;
+}
+
+.card-img-top {
+    width: 50px;
+    height: 200px;
+}
+
+.btnLoad {
+    padding: 8px;
+    font-weight: bolder;
+    border-radius: 8px;
+    color: black;
+    height: 50px;
+}
+
+.btnDiv {
+    display: flex;
+    justify-content: center;
+}
+
+.btnLoad:hover {
+    cursor: pointer;
+    border: 3px solid;
+    color: black;
+}
+
+.hide {
+    display: none !important;
+}
+
+.btOn {
+    margin: 25px;
+}
+
+footer {
+    background-color: #ebeeef;
+    margin-top: 50px;
+    width: 100%;
+}
+
+ul {
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 50px;
+}
+
+ul li {
+    color: #002f34;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: small;
+}
+
+.li1 {
+    margin-top: 18px;
+}
+
+.a12 {
+    position: relative;
+    bottom: 38px;
+}
+
+.last {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 15px;
+    background-color: #002f34;
+    color: white;
+    height: 50px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: small;
+    width: 100%;
+}
